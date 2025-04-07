@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.kyant"
-version = libs.versions.lib.version.get()
+version = getGitCommitHash()
 
 android {
     namespace = "com.kyant.taglib"
@@ -39,12 +39,16 @@ android {
         sourceCompatibility = JavaVersion.VERSION_21
         targetCompatibility = JavaVersion.VERSION_21
     }
+    //noinspection WrongGradleMethod
     kotlin {
         jvmToolchain(21)
         explicitApi()
     }
     lint {
         checkReleaseBuilds = false
+    }
+    publishing {
+        singleVariant("release") {}
     }
 }
 
@@ -56,12 +60,23 @@ dependencies {
 afterEvaluate {
     publishing {
         publications {
+            //noinspection WrongGradleMethod
             register("mavenRelease", MavenPublication::class) {
                 groupId = "com.kyant"
                 artifactId = "taglib"
-                version = libs.versions.lib.version.get()
+                version = getGitCommitHash()
                 from(components["release"])
             }
         }
+        repositories {
+            maven {
+                name = "GitHubPages"
+                url = uri(layout.buildDirectory.dir("gh-pages-repo"))
+            }
+        }
     }
+}
+
+fun getGitCommitHash(): String {
+    return System.getenv("GITHUB_SHA")?.take(7) ?: "local-SNAPSHOT"
 }
