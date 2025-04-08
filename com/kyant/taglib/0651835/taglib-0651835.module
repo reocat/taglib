@@ -3,7 +3,7 @@
   "component": {
     "group": "com.kyant",
     "module": "taglib",
-    "version": "07b93e4",
+    "version": "0651835",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "taglib-07b93e4.aar",
-          "url": "taglib-07b93e4.aar",
+          "name": "taglib-0651835.aar",
+          "url": "taglib-0651835.aar",
           "size": 1589657,
           "sha512": "49b81c5a5de09837d208d985613d178f735595f0f57406c30b209d6d093e9e9def7d23fbdaaa82c7fb16ad55b110225988d8aea0c1d0fb38239daea75721d267",
           "sha256": "6c080e07fbad35b6772742218e0e69f8a47a0388f937d73a5c5dc9bcf7255c7f",
@@ -62,8 +62,8 @@
       ],
       "files": [
         {
-          "name": "taglib-07b93e4.aar",
-          "url": "taglib-07b93e4.aar",
+          "name": "taglib-0651835.aar",
+          "url": "taglib-0651835.aar",
           "size": 1589657,
           "sha512": "49b81c5a5de09837d208d985613d178f735595f0f57406c30b209d6d093e9e9def7d23fbdaaa82c7fb16ad55b110225988d8aea0c1d0fb38239daea75721d267",
           "sha256": "6c080e07fbad35b6772742218e0e69f8a47a0388f937d73a5c5dc9bcf7255c7f",
