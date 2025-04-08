@@ -3,7 +3,7 @@
   "component": {
     "group": "com.kyant",
     "module": "taglib",
-    "version": "4bb55f8",
+    "version": "73139ef",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "taglib-4bb55f8.aar",
-          "url": "taglib-4bb55f8.aar",
-          "size": 1585824,
-          "sha512": "3d91e8caccaf5874c07414678dc7d32227df299e670c61970f2cc005ad488067f1b0d27afdf7ec59935b63a5e6d0641ad424a743f0ee40f99211777664326c86",
-          "sha256": "62d9d51ebda01b860b227ab88761ec6880c5977d30888cad15ef58e6f6ebea90",
-          "sha1": "8d9718e0dc7e42b649e1662543243a2b0ef0b836",
-          "md5": "a3bc8ebc5cdd8e95457a085aefbef369"
+          "name": "taglib-73139ef.aar",
+          "url": "taglib-73139ef.aar",
+          "size": 1587327,
+          "sha512": "1716491c44f493c27b1926dfec212fc6eff7814e7bf34a7208644b1a4abf1ef8a26f790b37b5f38c0e10498ba784bb8bdda80e62a8acfa3baa776390b8f906f8",
+          "sha256": "0f9122d5097ad41f96ffe749806e33fb0709b25e1b72e767aaed86b363b1d236",
+          "sha1": "2570c59c37c651cec9d5e189a6b458465a8d9686",
+          "md5": "e267445d1f2c4aaa20eac65f80653782"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "taglib-4bb55f8.aar",
-          "url": "taglib-4bb55f8.aar",
-          "size": 1585824,
-          "sha512": "3d91e8caccaf5874c07414678dc7d32227df299e670c61970f2cc005ad488067f1b0d27afdf7ec59935b63a5e6d0641ad424a743f0ee40f99211777664326c86",
-          "sha256": "62d9d51ebda01b860b227ab88761ec6880c5977d30888cad15ef58e6f6ebea90",
-          "sha1": "8d9718e0dc7e42b649e1662543243a2b0ef0b836",
-          "md5": "a3bc8ebc5cdd8e95457a085aefbef369"
+          "name": "taglib-73139ef.aar",
+          "url": "taglib-73139ef.aar",
+          "size": 1587327,
+          "sha512": "1716491c44f493c27b1926dfec212fc6eff7814e7bf34a7208644b1a4abf1ef8a26f790b37b5f38c0e10498ba784bb8bdda80e62a8acfa3baa776390b8f906f8",
+          "sha256": "0f9122d5097ad41f96ffe749806e33fb0709b25e1b72e767aaed86b363b1d236",
+          "sha1": "2570c59c37c651cec9d5e189a6b458465a8d9686",
+          "md5": "e267445d1f2c4aaa20eac65f80653782"
         }
       ]
     }
