@@ -3,14 +3,14 @@
   "component": {
     "group": "com.kyant",
     "module": "taglib",
-    "version": "ee3bac3",
+    "version": "61964ec",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "9.0-milestone-5"
     }
   },
   "variants": [
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "taglib-ee3bac3.aar",
-          "url": "taglib-ee3bac3.aar",
-          "size": 1589657,
-          "sha512": "49b81c5a5de09837d208d985613d178f735595f0f57406c30b209d6d093e9e9def7d23fbdaaa82c7fb16ad55b110225988d8aea0c1d0fb38239daea75721d267",
-          "sha256": "6c080e07fbad35b6772742218e0e69f8a47a0388f937d73a5c5dc9bcf7255c7f",
-          "sha1": "d80496991ce752e0b844414897d2e11cbf82f62c",
-          "md5": "2e814290077f1d61b0a02875e8f50e9d"
+          "name": "taglib-61964ec.aar",
+          "url": "taglib-61964ec.aar",
+          "size": 1592009,
+          "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
+          "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
+          "sha1": "1411785bcb0d04d94a7076279c11095b2077494f",
+          "md5": "32e5ca28092cdebe727e558b72a24f5f"
         }
       ]
     },
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "taglib-ee3bac3.aar",
-          "url": "taglib-ee3bac3.aar",
-          "size": 1589657,
-          "sha512": "49b81c5a5de09837d208d985613d178f735595f0f57406c30b209d6d093e9e9def7d23fbdaaa82c7fb16ad55b110225988d8aea0c1d0fb38239daea75721d267",
-          "sha256": "6c080e07fbad35b6772742218e0e69f8a47a0388f937d73a5c5dc9bcf7255c7f",
-          "sha1": "d80496991ce752e0b844414897d2e11cbf82f62c",
-          "md5": "2e814290077f1d61b0a02875e8f50e9d"
+          "name": "taglib-61964ec.aar",
+          "url": "taglib-61964ec.aar",
+          "size": 1592009,
+          "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
+          "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
+          "sha1": "1411785bcb0d04d94a7076279c11095b2077494f",
+          "md5": "32e5ca28092cdebe727e558b72a24f5f"
         }
       ]
     }

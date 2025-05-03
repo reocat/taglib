@@ -3,11 +3,11 @@
   <groupId>com.kyant</groupId>
   <artifactId>taglib</artifactId>
   <versioning>
-    <latest>ee3bac3</latest>
-    <release>ee3bac3</release>
+    <latest>61964ec</latest>
+    <release>61964ec</release>
     <versions>
-      <version>ee3bac3</version>
+      <version>61964ec</version>
     </versions>
-    <lastUpdated>20250502135150</lastUpdated>
+    <lastUpdated>20250503130957</lastUpdated>
   </versioning>
 </metadata>
