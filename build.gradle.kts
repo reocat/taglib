@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.kyant"
-version = getGitCommitHash()
+version = "rolling"
 
 android {
     namespace = "com.kyant.taglib"
@@ -64,7 +64,7 @@ afterEvaluate {
             register("mavenRelease", MavenPublication::class) {
                 groupId = "com.kyant"
                 artifactId = "taglib"
-                version = getGitCommitHash()
+                version = version
                 from(components["release"])
             }
         }
@@ -75,8 +75,4 @@ afterEvaluate {
             }
         }
     }
-}
-
-fun getGitCommitHash(): String {
-    return System.getenv("GITHUB_SHA")?.take(7) ?: "local-SNAPSHOT"
 }
