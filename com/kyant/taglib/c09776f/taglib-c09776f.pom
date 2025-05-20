@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kyant</groupId>
   <artifactId>taglib</artifactId>
-  <version>cb5100f</version>
+  <version>c09776f</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
