@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.0-RC"
+            "requires": "2.1.21"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1591996,
-          "sha512": "e3771948a9739df7f3d5e0f9c396b8c41beb71ed04eccce3284af96e8b63c82451f8aaf87fd43267f0e12f33ce55835653cf889cab2a9599cf87238690dfb633",
-          "sha256": "645531f6e2190123f579ad26c56950184483995c58356258dbe82df5317ef1cb",
-          "sha1": "e48b882f7c8e86fbb6d2a0af121bffd45e7c0f9f",
-          "md5": "2dffd4fc880ca7f170b89c53e03684f2"
+          "size": 1592009,
+          "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
+          "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
+          "sha1": "1411785bcb0d04d94a7076279c11095b2077494f",
+          "md5": "32e5ca28092cdebe727e558b72a24f5f"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.0-RC"
+            "requires": "2.1.21"
           }
         }
       ],
@@ -64,11 +64,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1591996,
-          "sha512": "e3771948a9739df7f3d5e0f9c396b8c41beb71ed04eccce3284af96e8b63c82451f8aaf87fd43267f0e12f33ce55835653cf889cab2a9599cf87238690dfb633",
-          "sha256": "645531f6e2190123f579ad26c56950184483995c58356258dbe82df5317ef1cb",
-          "sha1": "e48b882f7c8e86fbb6d2a0af121bffd45e7c0f9f",
-          "md5": "2dffd4fc880ca7f170b89c53e03684f2"
+          "size": 1592009,
+          "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
+          "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
+          "sha1": "1411785bcb0d04d94a7076279c11095b2077494f",
+          "md5": "32e5ca28092cdebe727e558b72a24f5f"
         }
       ]
     }
