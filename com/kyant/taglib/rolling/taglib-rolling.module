@@ -3,7 +3,7 @@
   "component": {
     "group": "com.kyant",
     "module": "taglib",
-    "version": "91f971f",
+    "version": "rolling",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "taglib-91f971f.aar",
-          "url": "taglib-91f971f.aar",
+          "name": "taglib-rolling.aar",
+          "url": "taglib-rolling.aar",
           "size": 1592009,
           "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
           "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
@@ -62,8 +62,8 @@
       ],
       "files": [
         {
-          "name": "taglib-91f971f.aar",
-          "url": "taglib-91f971f.aar",
+          "name": "taglib-rolling.aar",
+          "url": "taglib-rolling.aar",
           "size": 1592009,
           "sha512": "60319b539bb563e9fe6c9f8526aceb956420dde4e9b5d2543ce9ef177fb06ef99517d2b8563f271cf7d7977e2c4b20cde679670e92ccbafc9368e9fbb5395504",
           "sha256": "52e23a95bcfe3c17cddb13c9077e202901ee9cbfaa137eebffc6075e3ce00d18",
