@@ -6,7 +6,7 @@ android-buildToolsVersion = "36.0.0"
 android-ndkVersion = "29.0.13113456"
 lib-version = "1.0.1"
 
-kotlin = "2.2.20-RC2"
+kotlin = "2.2.20"
 rules = "1.7.0"
 runner = "1.7.0"
 
