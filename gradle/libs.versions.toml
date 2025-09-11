@@ -16,4 +16,3 @@ androidx-runner = { module = "androidx.test:runner", version.ref = "runner" }
 
 [plugins]
 android-library = { id = "com.android.library", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }

@@ -1,6 +1,5 @@
 plugins {
     alias(libs.plugins.android.library)
-    alias(libs.plugins.kotlin.android)
     `maven-publish`
 }
 
@@ -41,7 +40,9 @@ android {
     }
     //noinspection WrongGradleMethod
     kotlin {
-        jvmToolchain(21)
+        compilerOptions {
+            jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21
+        }
         explicitApi()
     }
     lint {
