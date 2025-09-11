@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.1.0-rc-1"
+      "version": "9.1.0-rc-3"
     }
   },
   "variants": [
@@ -22,24 +22,15 @@
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
-      "dependencies": [
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
-          "version": {
-            "requires": "2.2.20-RC"
-          }
-        }
-      ],
       "files": [
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1592206,
-          "sha512": "baed3f498e3965eeadb077954b9f58aa1a9755fead98b82af0f6425ce9dfc7c219edc7c3795e43dd06d49286301624585e9563b2ffe532db8d3525e98a945d00",
-          "sha256": "94d056aa78dd7d6aff2d53b3b96ce94c2314c0d51af78645cc89bf9908acc519",
-          "sha1": "621ca0bde6d19b30b4fee3bc94dcc23851de2967",
-          "md5": "bf8fc6236eef94e86876474d0bd49035"
+          "size": 1592043,
+          "sha512": "82903602a7a9d667c6d1627a534bd658d5ca593e2924eb95bb41dafe4add9f61757eaf102f5235e58b14662f3eae65b0083368da817811bce3c8aa16aac89c1f",
+          "sha256": "2b1c16a222d1fa907a5c2697fd6927bf15457ed41ed135aa989aba28dde0f469",
+          "sha1": "13ea9ff914cd91ffcf76f11ec9a8424fd013b1ff",
+          "md5": "14d13ca63e96f8cbb4a37012bddd53ac"
         }
       ]
     },
@@ -56,7 +47,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20-RC"
+            "requires": "2.2.0"
           }
         }
       ],
@@ -64,11 +55,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1592206,
-          "sha512": "baed3f498e3965eeadb077954b9f58aa1a9755fead98b82af0f6425ce9dfc7c219edc7c3795e43dd06d49286301624585e9563b2ffe532db8d3525e98a945d00",
-          "sha256": "94d056aa78dd7d6aff2d53b3b96ce94c2314c0d51af78645cc89bf9908acc519",
-          "sha1": "621ca0bde6d19b30b4fee3bc94dcc23851de2967",
-          "md5": "bf8fc6236eef94e86876474d0bd49035"
+          "size": 1592043,
+          "sha512": "82903602a7a9d667c6d1627a534bd658d5ca593e2924eb95bb41dafe4add9f61757eaf102f5235e58b14662f3eae65b0083368da817811bce3c8aa16aac89c1f",
+          "sha256": "2b1c16a222d1fa907a5c2697fd6927bf15457ed41ed135aa989aba28dde0f469",
+          "sha1": "13ea9ff914cd91ffcf76f11ec9a8424fd013b1ff",
+          "md5": "14d13ca63e96f8cbb4a37012bddd53ac"
         }
       ]
     }
