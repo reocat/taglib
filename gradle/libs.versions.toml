@@ -3,7 +3,7 @@ agp = "9.0.0-alpha04"
 android-minSdk = "23"
 android-compileSdk = "36"
 android-buildToolsVersion = "36.0.0"
-android-ndkVersion = "29.0.13113456"
+android-ndkVersion = "29.0.14033849"
 lib-version = "1.0.1"
 
 kotlin = "2.2.20"
