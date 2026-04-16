@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.5.0-rc-1"
+      "version": "9.5.0-rc-2"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.3.10"
+            "requires": "2.2.10"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1615790,
-          "sha512": "27f957e4f3faac6db6cd51876ce1d08eed160d18fcea8ff00a3776b8b80f36080a5202be06ac28927b28fda69113191ae60b1d7cb311b4992992461a485c151d",
-          "sha256": "ab5391c3ef7eb569bf62b225078db157ab38710f5cf931f6e2bcf012580467cf",
-          "sha1": "1997ebafc10dccd3b8d6d036a45165b1c5e1ad24",
-          "md5": "01fb33e6b68c1e1667f521ea2fa04360"
+          "size": 1615747,
+          "sha512": "3cb5c7a6bcb70fd27e1c441d3d1548508f1864e92c4078e5ad0c7cd6726acedfc8d2c1ac5e14543c743b1517b384dc6510c8c94fdbb432aa7995e71c41f0c779",
+          "sha256": "6666875d1099bc0b3b6e3c7c468272581447b148d9bcaa492884abf8a8d87b5d",
+          "sha1": "05daae06da90278efb3a1b1a4850902a5b739701",
+          "md5": "abb3546c1cb12151e060c536ddbbfc22"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.3.10"
+            "requires": "2.2.10"
           }
         }
       ],
@@ -64,11 +64,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1615790,
-          "sha512": "27f957e4f3faac6db6cd51876ce1d08eed160d18fcea8ff00a3776b8b80f36080a5202be06ac28927b28fda69113191ae60b1d7cb311b4992992461a485c151d",
-          "sha256": "ab5391c3ef7eb569bf62b225078db157ab38710f5cf931f6e2bcf012580467cf",
-          "sha1": "1997ebafc10dccd3b8d6d036a45165b1c5e1ad24",
-          "md5": "01fb33e6b68c1e1667f521ea2fa04360"
+          "size": 1615747,
+          "sha512": "3cb5c7a6bcb70fd27e1c441d3d1548508f1864e92c4078e5ad0c7cd6726acedfc8d2c1ac5e14543c743b1517b384dc6510c8c94fdbb432aa7995e71c41f0c779",
+          "sha256": "6666875d1099bc0b3b6e3c7c468272581447b148d9bcaa492884abf8a8d87b5d",
+          "sha1": "05daae06da90278efb3a1b1a4850902a5b739701",
+          "md5": "abb3546c1cb12151e060c536ddbbfc22"
         }
       ]
     }
