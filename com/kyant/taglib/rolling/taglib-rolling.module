@@ -35,11 +35,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1782228,
-          "sha512": "7197c2448700b4c2d06079c6fdade7abbd8f9423c55c2872d9656baf5722c689be05b84c8226096af5d93f3396a12a17441a79007f9f87336b68d5c4d26b9e15",
-          "sha256": "f6196a860462bc3f7f4f703ea206d6c192e42de9d053ff3c515df66a6f5cf8fc",
-          "sha1": "b4b7ffa83961a58f6a7d5bda954bfc449a3693fc",
-          "md5": "b74c937134b244a01bd5239e7d84606b"
+          "size": 1782300,
+          "sha512": "3d48ffce988260fb64afc90dd34156602727e64f74d0a1dcc1196391a7719aa54f5fc7631a4c5c27d6f3de8f0b9ddb5cb6e4f01b63ef7b4069b9905a8a0b9f91",
+          "sha256": "be9cd90768b39588c813539df3dc5f31dfbb1d86b256929e3d03d2d5bba6deed",
+          "sha1": "1436a54690c0e226c7fb18c13321d5cd6614e2e6",
+          "md5": "96d03aabe0b587bb20ab8e88faacddb7"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "taglib-rolling.aar",
           "url": "taglib-rolling.aar",
-          "size": 1782228,
-          "sha512": "7197c2448700b4c2d06079c6fdade7abbd8f9423c55c2872d9656baf5722c689be05b84c8226096af5d93f3396a12a17441a79007f9f87336b68d5c4d26b9e15",
-          "sha256": "f6196a860462bc3f7f4f703ea206d6c192e42de9d053ff3c515df66a6f5cf8fc",
-          "sha1": "b4b7ffa83961a58f6a7d5bda954bfc449a3693fc",
-          "md5": "b74c937134b244a01bd5239e7d84606b"
+          "size": 1782300,
+          "sha512": "3d48ffce988260fb64afc90dd34156602727e64f74d0a1dcc1196391a7719aa54f5fc7631a4c5c27d6f3de8f0b9ddb5cb6e4f01b63ef7b4069b9905a8a0b9f91",
+          "sha256": "be9cd90768b39588c813539df3dc5f31dfbb1d86b256929e3d03d2d5bba6deed",
+          "sha1": "1436a54690c0e226c7fb18c13321d5cd6614e2e6",
+          "md5": "96d03aabe0b587bb20ab8e88faacddb7"
         }
       ]
     }
