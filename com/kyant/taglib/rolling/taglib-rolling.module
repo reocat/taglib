@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.7.0"
+      "version": "9.8.0-milestone-1"
     }
   },
   "variants": [
