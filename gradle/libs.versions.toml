@@ -7,7 +7,7 @@ android-ndkVersion = "29.0.14033849"
 lib-version = "1.0.1"
 
 kotlin = "2.2.20"
-rules = "1.8.0-alpha03"
+rules = "1.8.0-alpha04"
 runner = "1.8.0-alpha03"
 
 [libraries]
